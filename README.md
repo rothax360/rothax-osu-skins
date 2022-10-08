@@ -13,5 +13,5 @@ my osu! profile — https://osu.ppy.sh/users/7975708
 [![image](https://i.ibb.co/B3Hdwkq/screenshot032.jpg)](https://rothax.s-ul.eu/S8EvsUJm)
 ## [azerino+rothax](https://rothax.s-ul.eu/UegI3Pgn)
 [![image](https://i.ibb.co/FHvyJTR/screenshot031.jpg)](https://rothax.s-ul.eu/UegI3Pgn)
-## [azerino+rothax](https://rothax.s-ul.eu/ZVooRG79)
+## [zobrist+rothax](https://rothax.s-ul.eu/ZVooRG79)
 [![image](https://i.ibb.co/pnKqCJM/screenshot041.jpg)](https://rothax.s-ul.eu/ZVooRG79)
