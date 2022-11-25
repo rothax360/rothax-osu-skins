@@ -1,6 +1,8 @@
 # Information
 my osu! profile — https://osu.ppy.sh/users/7975708
 # Skins
+## [amore+rothax](https://rothax.s-ul.eu/6P4z55xT)
+[![image](https://i.ibb.co/LQZpgWG/screenshot043.jpg)](https://rothax.s-ul.eu/6P4z55xT)
 ## [vaxei+rothax](https://rothax.s-ul.eu/2f1vFxKO)
 [![image](https://i.ibb.co/G7cdG1r/screenshot040.jpg)](https://rothax.s-ul.eu/2f1vFxKO)
 ## [milo+rothax](https://rothax.s-ul.eu/225XDmv8)
